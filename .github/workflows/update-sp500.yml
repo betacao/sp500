@@ -1,4 +1,4 @@
-name: Update S&P 500 Components
+name: Check S&P 500 Components
 
 on:
   workflow_call:
@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  check:
     runs-on: ubuntu-latest
 
     steps:
