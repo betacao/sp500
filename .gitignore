@@ -67,3 +67,7 @@ target/
 # ipython metadata
 .ipynb_checkpoints
 
+# CI 临时文件
+CHANGES.txt
+.DS_Store
+
